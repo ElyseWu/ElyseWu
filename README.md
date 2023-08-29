@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+my profolio: https://elysewu.github.io/my_profile/
+
