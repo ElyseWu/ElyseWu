@@ -1,13 +1,14 @@
 ## 👋 Hi, I’m Huihui Wu
-🔭 I’m currently seeking a full-time software development engineer position from March, 2023.
-A brief introduction: Deep understanding of OOD, algorithms and data structures with many years of work experience and a wide range of projects' experience on web development. Strong knowledge of computer science and solid programming skills in popular databases, platforms and frameworks such as MySQL, PostgreSQL, AWS, React, Spring, Micronaut, Hibernate, RESTful API and Docker.
+🔭 I'm a software engineer at Meta (via HCLTech), working on FBlearner Flow, Meta's internal AI/ML pipeline system. I specialize in AI infrastructure, distributed systems, and full-stack development. Currently, I'm seeking new opportunities where I can leverage my skills to build scalable, high-performance systems.
 
-Programming Languages:  Java, Python, JavaScript, SQL, Go, R, Kotlin
+🔹 Experience & Skills
+Meta (FBlearner Flow, AI Infra): Designed and optimized Flow lightning runtime, reducing infra overhead 10x. Led standard dashboard development for 30+ teams and helped migrate Flow's key feature for 1000+ teams.
 
-Web Development:  React, Java Servlet, Node.js, JQuery, HTML/CSS 
+Full Stack Development: Built and deployed an iOS/Android app with Flutter, Firebase, and Node.js. Improved database efficiency by 30% and developed real-time messaging features.
 
-Databases and Cloud: PostgreSQL, MySQL, ElasticSearch, Room, AWS EC2, Google App Engine, Spring MVC, Hibernate
+Scalability & Performance: Engineered a high-performance distributed service handling 100k QPS, optimized Redis caching & rate limiting, and ensured system stability during peak loads.
 
+🔹 I'm actively looking for new roles in AI/ML infrastructure, backend engineering, or full-stack development. Feel free to connect!
 
 <!--
 **ElyseWu/ElyseWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
