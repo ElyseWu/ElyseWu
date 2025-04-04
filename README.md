@@ -8,7 +8,7 @@ Full Stack Development: Built and deployed an iOS/Android app with Flutter, Fire
 
 Scalability & Performance: Engineered a high-performance distributed service handling 100k QPS, optimized Redis caching & rate limiting, and ensured system stability during peak loads.
 
-🔹 I'm actively looking for new roles in AI/ML infrastructure, backend engineering, or full-stack development. Feel free to connect!
+🔹 I'm actively looking for new roles in AI infrastructure, backend engineering, or full-stack development. Feel free to connect!
 
 <!--
 **ElyseWu/ElyseWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
